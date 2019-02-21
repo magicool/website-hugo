@@ -1,4 +1,4 @@
 baseURL = "http://magicool.github.io/"
 languageCode = "zh"
 title = "Magicool Blog"
-theme = "casper"
+theme = "cupper-hugo-theme"
